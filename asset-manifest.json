@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/second-portfolio/static/css/main.883a977c.chunk.css",
+    "main.js": "/second-portfolio/static/js/main.c5d0878a.chunk.js",
+    "main.js.map": "/second-portfolio/static/js/main.c5d0878a.chunk.js.map",
+    "runtime-main.js": "/second-portfolio/static/js/runtime-main.37e7230f.js",
+    "runtime-main.js.map": "/second-portfolio/static/js/runtime-main.37e7230f.js.map",
+    "static/js/2.206fbd71.chunk.js": "/second-portfolio/static/js/2.206fbd71.chunk.js",
+    "static/js/2.206fbd71.chunk.js.map": "/second-portfolio/static/js/2.206fbd71.chunk.js.map",
+    "index.html": "/second-portfolio/index.html",
+    "static/css/main.883a977c.chunk.css.map": "/second-portfolio/static/css/main.883a977c.chunk.css.map",
+    "static/js/2.206fbd71.chunk.js.LICENSE.txt": "/second-portfolio/static/js/2.206fbd71.chunk.js.LICENSE.txt",
+    "static/media/Ndegwa.9e013110.pdf": "/second-portfolio/static/media/Ndegwa.9e013110.pdf",
+    "static/media/arrow.cdbd682a.png": "/second-portfolio/static/media/arrow.cdbd682a.png",
+    "static/media/cover.808e3134.png": "/second-portfolio/static/media/cover.808e3134.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37e7230f.js",
+    "static/js/2.206fbd71.chunk.js",
+    "static/css/main.883a977c.chunk.css",
+    "static/js/main.c5d0878a.chunk.js"
+  ]
+}
