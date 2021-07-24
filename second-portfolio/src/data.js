@@ -11,7 +11,7 @@ export const Projects = [
     {
      id: 2,
      title: "Cup of Sugar Web app",
-     img:  "./asset/cupfullfruites.jpg",
+     img:  "./build/asset/cupfullfruites.jpg",
      url:"https://github.com/anthony9292/cupofsugar",
     
      
