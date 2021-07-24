@@ -1,0 +1,31 @@
+.app { 
+    height: 100vh;
+
+//make container relative and starts after 70px
+ .sections{ 
+    width: 100%;
+    height: calc(100vh - 70px); 
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    top: 70px;
+    //when moving tyo diff sections from taskbar wont be instant/more smooth
+    scroll-behavior: smooth;
+    ///snap scrolling key
+    scroll-snap-type: y mandatory;
+     //removes scrollbar from webpage* can still scroll
+    scrollbar-width: none; //for firefox
+    ///for chrome,edge,safari...
+    &::-webkit-scrollbar{
+        display: none;
+    }
+/// >*for each element inside(intro,portfolio,works...)
+    > *{
+        width: 100vw;
+        height: calc(100vh - 70px);
+        //when scrolling if u leave the scroll it will snap to closest section
+      scroll-snap-align: start;
+    }
+}
+
+
+}
